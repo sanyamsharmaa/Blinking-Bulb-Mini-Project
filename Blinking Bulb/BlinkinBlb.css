@@ -1,0 +1,30 @@
+.balab{
+    width: 15em;
+    height: 15em;
+    background-color: rgb(169, 167, 167);
+    margin-top: 10px;
+    position: relative;
+    left: 40%;
+    border-radius: 50%;
+    z-index: 1;
+}
+.blb2{
+    width: 15em;
+    height: 15em;
+    background-color: rgb(225, 252, 76);
+    margin-top: 10px;
+    position: relative;
+    left: 40%;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.sptr{
+    position: relative;
+    width: 7em;
+    height: 9em;
+    top:-2em;
+    left: 44.2%;
+    border-radius: 37%;
+    background-color: rgb(114, 114, 114);
+}
